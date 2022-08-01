@@ -506,22 +506,22 @@ nan@^2.14.0:
   resolved "https://registry.npmjs.org/nan/-/nan-2.14.2.tgz#f5376400695168f4cc694ac9393d0c9585eeea19"
   integrity sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ==
 
-native-reg@0.3.5:
-  version "0.3.5"
-  resolved "https://registry.npmjs.org/native-reg/-/native-reg-0.3.5.tgz#80f6601028f236be68ef45b5c17493a94abb1145"
-  integrity sha512-lwaSAbq02DZ2aFK/ZvHzDpaHQSo7fh0GjIol+juMe6iwmeBO+ZMXFSPLfpOksOhcxgEBhgCU1bVm1G0u9lkdpA==
+native-reg@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/native-reg/-/native-reg-1.1.0.tgz#caa7a21c8e537c977cf481296d5675edebcbcbe2"
+  integrity sha512-nykrWHVAp9E6oLUypAVDFj+kq5J4AMd7VA5CVOqMw/k4w7Mhuc6p/1tLTqDLJbQsFs85qT1ElQw8Yn/RayUupg==
   dependencies:
-    node-gyp-build "^4"
+    node-gyp-build "4"
 
 nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.npmjs.org/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
-node-gyp-build@^4:
-  version "4.2.3"
-  resolved "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.2.3.tgz#ce6277f853835f718829efb47db20f3e4d9c4739"
-  integrity sha512-MN6ZpzmfNCRM+3t57PTJHgHyw/h4OWnZ6mR8P5j/uZtqQr46RRuDE/P+g3n0YR/AiYXeWixZZzaip77gdICfRg==
+node-gyp-build@4:
+  version "4.5.0"
+  resolved "https://registry.npmjs.org/node-gyp-build/-/node-gyp-build-4.5.0.tgz#7a64eefa0b21112f89f58379da128ac177f20e40"
+  integrity sha512-2iGbaQBV+ITgCz76ZEjmhUKAKVf7xfY1sRl4UiKQspfZMH2h06SyhNsnSVy50cwkFQDGLyif6m/6uFXHkOZ6rg==
 
 node-pty@0.10.1:
   version "0.10.1"
