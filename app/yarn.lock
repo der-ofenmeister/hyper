@@ -177,10 +177,10 @@ dot-prop@^6.0.1:
   dependencies:
     is-obj "^2.0.0"
 
-electron-fetch@1.7.3:
-  version "1.7.3"
-  resolved "https://registry.npmjs.org/electron-fetch/-/electron-fetch-1.7.3.tgz#06cf363d7f64073ec00a37e9949ec9d29ce6b08a"
-  integrity sha512-1AVMaxrHXTTMqd7EK0MGWusdqNr07Rpj8Th6bG4at0oNgIi/1LBwa9CjT/0Zy+M0k/tSJPS04nFxHj0SXDVgVw==
+electron-fetch@1.9.1:
+  version "1.9.1"
+  resolved "https://registry.npmjs.org/electron-fetch/-/electron-fetch-1.9.1.tgz#e28bfe78d467de3f2dec884b1d72b8b05322f30f"
+  integrity sha512-M9qw6oUILGVrcENMSRRefE1MbHPIz0h79EKIeJWK9v563aT9Qkh8aEHPO1H5vi970wPirNY+jO9OpFoLiMsMGA==
   dependencies:
     encoding "^0.1.13"
 
